@@ -11,5 +11,7 @@ To Use the paper published by Shihao Gu, Bryan Kelly and Dacheng Xiu on 'Emperic
 - Logistic Regression (for binary classification)
 - Light Gradient Boosting Machines
 - RNN - LSTM
+
+
 Done as part of assignment for Data Analysis in Finance, HEC Paris - Spring 2021 
 
