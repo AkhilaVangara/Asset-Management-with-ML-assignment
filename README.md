@@ -15,3 +15,6 @@ To Use the paper published by Shihao Gu, Bryan Kelly and Dacheng Xiu on 'Emperic
 
 Done as part of assignment for Data Analysis in Finance, HEC Paris - Spring 2021 
 
+# References
+
+- https://github.com/hrbzkm98/ml-research/blob/master/notebooks/Final_Report_LSTM.ipynb
